@@ -1,2 +1,2 @@
-# Coord2Vec
-Code repository for Coord2Vec
+# GeoEmbedding
+Code repository for GeoEmbedding
